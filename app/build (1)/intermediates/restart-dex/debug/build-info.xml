@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="19600832870483" >
+
+    <task
+        name="javac"
+        duration="10788" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1553" />
+    <task
+        name="verifier"
+        duration="150" />
+
+    <artifact
+        location="/Users/Kareem/Google Drive/AndroidProjects/ScoreKeeper/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="19600832870483" >
+        <artifact
+            location="/Users/Kareem/Google Drive/AndroidProjects/ScoreKeeper/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
